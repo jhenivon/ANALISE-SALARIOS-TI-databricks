@@ -19,6 +19,16 @@ Aqui utilizamos os dados já tratados no ETL para realizar **análises explorat�
 - **Plotly Express** (visualizações interativas)
 
 ---
+## 📌 Observação
+Este projeto foi desenvolvido e executado na plataforma **Databricks**.  
+Ao exportar o notebook para formato `.ipynb`, as saídas gráficas não são incluídas automaticamente.  
+Por isso, os gráficos não aparecem diretamente no notebook exportado.  
+
+No entanto, todo o código pode ser executado em ambientes como **VS Code** ou **Jupyter Notebook**, onde as visualizações seriam plotadas normalmente.  
+Para fins de apresentação, os gráficos já estão disponíveis na pasta `assets` e exibidos neste README.
+
+
+---
 
 ## 📊 Principais análises
 ## 1. Qual o nível de experiência mais comum na base? 
